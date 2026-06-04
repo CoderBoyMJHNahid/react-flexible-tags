@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "A flexible, lightweight React tags input component with keyboard support",
   "keywords": [
+    "react-flexible-tags",
+    "flexible-tags",
+    "react-flexible-tags-input",
+    "react-flexible",
     "react-component",
     "react-library",
     "react-ui",
@@ -14,8 +18,6 @@
     "tag",
     "tag-input",
     "tagging",
-    "chip",
-    "chips",
     "input-tags",
     "multi-input",
     "multi-value-input",
@@ -29,7 +31,7 @@
     "custom-tags",
     "ui-component"
   ],
-  "author": "M J Nahid",
+  "author": "M J H Nahid",
   "license": "MIT",
   "type": "module",
   "main": "dist/react-flexible-tags.umd.js",
